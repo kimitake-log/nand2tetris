@@ -1,2 +1,5 @@
 ﻿tools/
 .DS_Store
+
+# Nand2Tetris generated test outputs
+*.out
